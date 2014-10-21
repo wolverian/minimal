@@ -33,8 +33,8 @@ hi IncSearch	guifg=black		guifg=black	ctermfg=black	ctermfg=black
 hi LineNr		guifg=black		ctermfg=black
 hi title		guifg=black	gui=bold	cterm=bold
 
-hi StatusLineNC	gui=NONE	guifg=black guifg=black	ctermfg=black  ctermfg=black
-hi StatusLine	cterm=bold gui=bold	guifg=black	ctermfg=black
+hi StatusLine	cterm=none gui=none	guifg=white	ctermfg=white guibg=black ctermbg=black
+hi StatusLineNC	cterm=none gui=none	guifg=fg	ctermfg=fg guibg=white ctermbg=white
 hi VertSplit	gui=none	guifg=black	guifg=black	ctermfg=black	ctermfg=black
 
 hi Visual		term=reverse		ctermfg=black	ctermfg=black	guifg=black		guifg=black
