@@ -4,7 +4,7 @@ if exists("syntax_on")
   syntax reset
 endif
 let g:colors_name = "minimal"
-hi Normal		guifg=black	guifg=black	ctermfg=black	ctermfg=black
+hi Normal		guifg=black	guifg=#424242	ctermfg=black	ctermfg=black
 hi NonText		guifg=black	ctermfg=black
 hi comment		guifg=darkgray		ctermfg=darkgray	gui=italic
 hi constant		guifg=black		ctermfg=black
