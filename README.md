@@ -9,4 +9,5 @@ terminal. #424242 works well.
 
 ## License
 
-wtch is available under the ISC license. See the LICENSE file for more information.
+wtch is available under the ISC license. See the [LICENSE](./LICENSE)
+file for more information.
