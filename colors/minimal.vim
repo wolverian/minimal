@@ -44,7 +44,7 @@ hi DiffText		guifg=#424242		guifg=#424242		ctermfg=black	ctermfg=black
 hi DiffAdd		guifg=#424242		guifg=#424242		ctermfg=black		ctermfg=black
 hi DiffDelete   guifg=#424242			guifg=#424242	ctermfg=black		ctermfg=black
 
-hi Folded		guifg=#424242		guifg=#424242		ctermfg=black		ctermfg=black
+hi Folded		guifg=#424242		guifg=#424242		ctermfg=black		ctermbg=254
 hi FoldColumn	guifg=#424242		guifg=#424242	ctermfg=black		ctermfg=black
 hi cIf0			guifg=#424242			ctermfg=black
 
